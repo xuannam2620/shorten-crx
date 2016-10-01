@@ -1,0 +1,1 @@
+Chrome extension for shorten link by https://goo.gl
