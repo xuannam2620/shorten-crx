@@ -1,0 +1,14 @@
+{
+  "name": "shorten-project",
+  "version": "1.0.0",
+  "description": "shorten a link by goole-shorten api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tran Xuan Nam",
+  "license": "ISC",
+  "dependencies": {
+    "google-url": "0.0.4"
+  }
+}
